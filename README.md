@@ -1,23 +1,20 @@
-#Телеграм-бот на основе chatGPT
+Телеграм-бот на основе chatGPT
 #
-#
-##
-#
-#
-#
-#Deploy на сервер
-#
-#создаем папку виртуального окружения
-#python3 -m venv venv
-#
-#активируем виртуальное окружение
-#source venv/bin/activate
-#
-#устанавливаем нужные пакеты
-#pip3 install -r requirements.txt
-#
-#создаем скрин для бота с именем
-#screen -S bot_wo_db
-#
-#запускаем бота
-#python3 main.py
+</br>
+
+Deploy на сервер</br>
+</br>
+создаем папку виртуального окружения</br>
+python3 -m venv venv</br>
+</br>
+активируем виртуальное окружение</br>
+source venv/bin/activate</br>
+</br>
+устанавливаем нужные пакеты</br>
+pip3 install -r requirements.txt</br>
+</br>
+создаем скрин для бота с именем</br>
+screen -S bot_wo_db</br>
+</br>
+запускаем бота</br>
+python3 main.py</br>
